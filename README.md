@@ -1,5 +1,8 @@
 ## Hi there 👋
+Im Edwin,a student in Indonesia who is interested in deepening his skills in the field of Artificial Intelligence and also machine learning, etc.
 
+My mainstay programming language for now is Python, but I also studied JavaScript, HTML and CSS to create simple websites when I was still in vocational school.
+📫 How to reach me: You can DM my Instagram @edwinprasetyae or you can send an email to @edwinprasetya994@gmail.com
 <!--
 **edwinprasetya994-dotcom/edwinprasetya994-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
